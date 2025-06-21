@@ -1,0 +1,93 @@
+.body
+{
+    margin: 40px;
+    background-color: rgb(255, 168, 63);
+}
+.header1
+{
+    font-size: 50px;
+    font-family: Arial;
+    text-align: center;
+    color: rgb(82, 49, 21);
+    background-color: rgb(255, 241, 162);
+    display: grid;
+    place-items: center;
+    border: solid;
+}
+
+section
+{
+    color: rgb(255, 255, 255);
+    font-family: Arial;
+    text-align: start;
+    width: 50%;
+    height: 100%;
+    margin: 10px;
+    margin-top: 25px;
+}
+aside
+{
+    margin: 4px;
+    width: 50%;
+    height: 100%;
+}
+img
+{
+    width: 800px;
+   
+    position: relative;
+}
+.b2
+{
+    margin: 40px;
+    background-color: rgb(255, 239, 159);
+}
+.S1
+{
+    color: rgb(82, 49, 21);
+    font-family: Arial;
+    text-align: start;
+    width: 50%;
+    height: 100%;
+    margin: 10px;
+    margin-top: 25px;
+}
+header
+{
+    font-family: Arial;
+    font-size: 50px;
+    text-align: center;
+    color: rgb(82, 49, 21);
+    background-color: darkorange;
+    display: grid;
+    place-items: center;
+    border: solid;
+}
+.Contactos
+{
+    font-size: 50px;
+    color: rgb(82, 49, 21);
+    font-family: Arial;
+    text-align: center;
+    display: grid;
+    place-items: center;
+}
+.Logo
+{
+    text-align: center;
+}
+.Delis
+{
+    width: 500px;
+    float: center;
+}
+.Texto
+{
+    text-align: center;
+    font-family: Arial;
+    color: rgb(255, 241, 162);
+}
+.cafe
+{
+    color: rgb(82, 49, 21);
+}
